@@ -1,0 +1,20 @@
+body{
+	background-color: purple;
+	color: silver;
+	font-style: italic;
+}
+h1{
+	color: yellow;
+	font-style: oblique;
+}
+p{
+	text-indent: 10px;
+}
+
+#barnaul, #krasnoyarsk, #sibgau, #spp{
+	width: 400px;
+
+}
+img{
+	border-radius: 40px;
+}
